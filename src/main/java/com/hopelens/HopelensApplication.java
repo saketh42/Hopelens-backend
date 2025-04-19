@@ -9,5 +9,4 @@ public class HopelensApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(HopelensApplication.class, args);
 	}
-
 }
